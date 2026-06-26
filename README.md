@@ -1,4 +1,5 @@
 # ESP32 CNC Machine Monitoring Prototype
+
 ESP32 and PlatformIO-based monitoring prototype for demonstrating environmental sensing, machine-condition indication, operator control, visual status reporting, audible alarms, and lockout/recovery behavior.
 
 The project combines a DHT11 temperature/humidity sensor, LDR-based machine-state input, SPI TFT dashboard, rotary-encoder interface, RGB LED, buzzer, and push-button reset control.
